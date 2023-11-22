@@ -1,4 +1,4 @@
-learnig git is fun.
+learning git is fun.
 this is my first commit.
 
 now this is my third commit.
