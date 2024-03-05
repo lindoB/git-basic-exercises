@@ -1,4 +1,0 @@
-vannila
-strawberry
-chocolate
-
