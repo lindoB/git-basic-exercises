@@ -1,0 +1,76 @@
+    1  ls
+    2  ls
+    3  python --version
+    4  python --version
+    5  ls
+    6  cd git-basic-exercises
+    7  git branch
+    8  rm -rf history
+    9  rm -rf main
+   10  cd
+   11  cd git-basic-exercises
+   12  git branch main
+   13  git checkout main
+   14  git branch -D history
+   15  git branch -D milkshake-flavours
+   16  git branch -D milkshake-exercises
+   17  git branch -D milkshakes-flavours
+   18  git branch
+   19  ls
+   20  rm -rf .git
+   21  ls
+   22  nano README.md
+   23  rm README.md
+   24  ls
+   25  ls -a
+   26  rm ./
+   27  rm -rf ./
+   28  git rm -r ./
+   29  git init
+   30  ls
+   31  ls -a
+   32  git status
+   33  git log
+   34  touch README.md
+   35  ls -a
+   36  git status
+   37  git status
+   38  git add README.md
+   39  git status
+   40  git commit -m "initial commit"
+   41  git log
+   42  nano README.me
+   43  ls
+   44  nano RREADME.md
+   45  nano README.md
+   46  cat README.md
+   47  git status
+   48  git add README.md
+   49  git commit -m "second commit"
+   50  nano README.md
+   51  git add README.md 
+   52  git commit -m "third commit"
+   53  git log
+   54  e85ae2860d142046b1f706b09147b8d6eeaaa104
+   55  git check e85ae2860d142046b1f706b09147b8d6eeaaa104
+   56  git checkout e85ae2860d142046b1f706b09147b8d6eeaaa104
+   57  cat README.md
+   58  git checkout main
+   59  git checkout master
+   60  cat README.md
+   61  git branch 
+   62  git branch milkshake-flavours
+   63  git branch
+   64  git checkout milkshake-flavours
+   65  nano milkshakes.md
+   66  git status
+   67  git add milkshakes.md
+   68  git commit -m "added initial flavours"
+   69  git log
+   70  git checkout main
+   71  git checkout master
+   72  git branch history
+   73  git checkout history
+   74  git log
+   75  git branch
+   76  history > history.txt
